@@ -14601,11 +14601,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Learn\\NetCore\\Dependency Injection\\02\\demos\\Before\\test\\TennisBookings.Web.Tests\\TennisBookings.Web.Tests.csproj",
+      "projectUniqueName": "C:\\Learn\\NetCore\\DI-Core\\test\\TennisBookings.Web.Tests\\TennisBookings.Web.Tests.csproj",
       "projectName": "TennisBookings.Web.Tests",
-      "projectPath": "C:\\Learn\\NetCore\\Dependency Injection\\02\\demos\\Before\\test\\TennisBookings.Web.Tests\\TennisBookings.Web.Tests.csproj",
+      "projectPath": "C:\\Learn\\NetCore\\DI-Core\\test\\TennisBookings.Web.Tests\\TennisBookings.Web.Tests.csproj",
       "packagesPath": "C:\\Users\\hpLap\\.nuget\\packages\\",
-      "outputPath": "C:\\Learn\\NetCore\\Dependency Injection\\02\\demos\\Before\\test\\TennisBookings.Web.Tests\\obj\\",
+      "outputPath": "C:\\Learn\\NetCore\\DI-Core\\test\\TennisBookings.Web.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14624,8 +14624,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Learn\\NetCore\\Dependency Injection\\02\\demos\\Before\\src\\TennisBookings.Web\\TennisBookings.Web.csproj": {
-              "projectPath": "C:\\Learn\\NetCore\\Dependency Injection\\02\\demos\\Before\\src\\TennisBookings.Web\\TennisBookings.Web.csproj"
+            "C:\\Learn\\NetCore\\DI-Core\\src\\TennisBookings.Web\\TennisBookings.Web.csproj": {
+              "projectPath": "C:\\Learn\\NetCore\\DI-Core\\src\\TennisBookings.Web\\TennisBookings.Web.csproj"
             }
           }
         }

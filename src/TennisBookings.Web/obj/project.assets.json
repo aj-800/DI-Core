@@ -12946,11 +12946,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Learn\\NetCore\\Dependency Injection\\02\\demos\\Before\\src\\TennisBookings.Web\\TennisBookings.Web.csproj",
+      "projectUniqueName": "C:\\Learn\\NetCore\\DI-Core\\src\\TennisBookings.Web\\TennisBookings.Web.csproj",
       "projectName": "TennisBookings.Web",
-      "projectPath": "C:\\Learn\\NetCore\\Dependency Injection\\02\\demos\\Before\\src\\TennisBookings.Web\\TennisBookings.Web.csproj",
+      "projectPath": "C:\\Learn\\NetCore\\DI-Core\\src\\TennisBookings.Web\\TennisBookings.Web.csproj",
       "packagesPath": "C:\\Users\\hpLap\\.nuget\\packages\\",
-      "outputPath": "C:\\Learn\\NetCore\\Dependency Injection\\02\\demos\\Before\\src\\TennisBookings.Web\\obj\\",
+      "outputPath": "C:\\Learn\\NetCore\\DI-Core\\src\\TennisBookings.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
